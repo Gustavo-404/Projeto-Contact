@@ -1,4 +1,4 @@
-package com.franciscocalaca.backend;
+package com.gustavogabriel.teste;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
